@@ -1,0 +1,31 @@
+E:\gpsirrferreira\SVN Sistemas GPSI\Componentes.NET\MySqlDataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\gpsirrferreira\SVN Sistemas GPSI\Componentes.NET\MySqlDataLayer\bin\Debug\MySqlDataLayer.dll
+E:\gpsirrferreira\SVN Sistemas GPSI\Componentes.NET\MySqlDataLayer\bin\Debug\MySqlDataLayer.pdb
+E:\gpsirrferreira\SVN Sistemas GPSI\Componentes.NET\MySqlDataLayer\obj\Debug\MySqlDataLayer.dll
+E:\gpsirrferreira\SVN Sistemas GPSI\Componentes.NET\MySqlDataLayer\obj\Debug\MySqlDataLayer.pdb
+C:\Users\administrador\Desktop\SEDURB\[SEDURB]Componentes.NET\MySqlDataLayer\bin\Debug\MySqlDataLayer.dll
+C:\Users\administrador\Desktop\SEDURB\[SEDURB]Componentes.NET\MySqlDataLayer\bin\Debug\MySqlDataLayer.pdb
+C:\Users\administrador\Desktop\SEDURB\[SEDURB]Componentes.NET\MySqlDataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\administrador\Desktop\SEDURB\[SEDURB]Componentes.NET\MySqlDataLayer\obj\Debug\MySqlDataLayer.dll
+C:\Users\administrador\Desktop\SEDURB\[SEDURB]Componentes.NET\MySqlDataLayer\obj\Debug\MySqlDataLayer.pdb
+C:\Documents and Settings\rrferreira\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\bin\Debug\MySqlDataLayer.dll
+C:\Documents and Settings\rrferreira\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\bin\Debug\MySqlDataLayer.pdb
+C:\Documents and Settings\rrferreira\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rrferreira\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\obj\Debug\MySqlDataLayer.dll
+C:\Documents and Settings\rrferreira\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\obj\Debug\MySqlDataLayer.pdb
+C:\Users\rrferreira\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\bin\Debug\MySqlDataLayer.dll
+C:\Users\rrferreira\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\bin\Debug\MySqlDataLayer.pdb
+C:\Users\rrferreira\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rrferreira\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\obj\Debug\MySqlDataLayer.dll
+C:\Users\rrferreira\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\obj\Debug\MySqlDataLayer.pdb
+C:\Users\rrferreira.SEDURB\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\bin\Debug\MySqlDataLayer.dll
+C:\Users\rrferreira.SEDURB\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\bin\Debug\MySqlDataLayer.pdb
+C:\Users\rrferreira.SEDURB\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\obj\Debug\MySqlDataLayer.dll
+C:\Users\rrferreira.SEDURB\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\obj\Debug\MySqlDataLayer.pdb
+C:\Users\rrferreira.SEDURB\Desktop\SEDURB-PRJ_COMPONENTES.NET\trunk\MySqlDataLayer\obj\Debug\MySqlDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\rafael\Desktop\MySql ELMAH Sample\MySqlDataLayer\bin\Debug\MySqlDataLayer.dll
+C:\Users\rafael\Desktop\MySql ELMAH Sample\MySqlDataLayer\bin\Debug\MySqlDataLayer.pdb
+C:\Users\rafael\Desktop\MySql ELMAH Sample\MySqlDataLayer\obj\Debug\MySqlDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\rafael\Desktop\MySql ELMAH Sample\MySqlDataLayer\obj\Debug\MySqlDataLayer.dll
+C:\Users\rafael\Desktop\MySql ELMAH Sample\MySqlDataLayer\obj\Debug\MySqlDataLayer.pdb
+C:\Users\rafael\Desktop\MySql ELMAH Sample\MySqlDataLayer\bin\Debug\MySql.Data.dll
